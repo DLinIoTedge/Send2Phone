@@ -1,6 +1,7 @@
 # Send2Phone
 push  JJnet model to phone
 
-How to build toPhone/SndModel.jar ??
-javac main.java
+Q: How to build toPhone/SndModel.jar ??
+
+Ans: javac main.java
 
